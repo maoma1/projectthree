@@ -1,0 +1,41 @@
+.navbar a{
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+.my-container {
+    background-color:rosybrown;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+
+}
+.rounded-circle {
+    margin-bottom: 10px;
+}
+.rounded {
+    margin-bottom: 10px;
+}
+
+.container2a{
+
+    background-color: lightgray;
+    padding: 10px;
+
+}
+.navbar-toggler {
+    color: white
+
+}
+
+.container2b {
+    background-color: lightsteelblue;
+    padding: 10px;
+}
